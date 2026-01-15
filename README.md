@@ -1,9 +1,4 @@
 <h1 align="center">Hey there! I'm Emir 🌟</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elemirs&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&show_icons=true&icon_color=E34F26" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemirs&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=elemirs&color=red&style=for-the-badge" alt="Visitor Count" />
